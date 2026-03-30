@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that demonstrates and analyzes the A
 This project aims to predict the fuel efficiency of automobiles based on their characteristics. It includes:
 
 - Data preprocessing and cleaning
-- Exploratory data analysis (EDA) to understand the datasetnn
+- Exploratory data analysis (EDA) to understand the datasetnnn
 - Feature engineering to enhance model performance
 - Implementation of machine learning models
 - Evaluation and visualization of model results
