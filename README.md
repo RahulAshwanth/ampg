@@ -2,7 +2,7 @@
 This repository contains a Jupyter Notebook that demonstrates and analyzes the Automatic MPG (Miles Per Gallon) estimation using various data analysis and machine learning techniques.
 
 ## Overview 
-This project aims to predict the fuel efficiency of automobiles based on their characteristics. It includes:
+This project aims to predict the fuel efficiency of automobiles based on their characteristics. It includes:m
 
 - Data preprocessing and cleaning
 - Exploratory data analysis (EDA) to understand the dataset
